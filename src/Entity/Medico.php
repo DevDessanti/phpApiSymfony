@@ -14,16 +14,16 @@ class Medico
 {
     /**
      * @ORM\Id
-     * @ORM\GenerateValue
-     * @ORM\Column(Type="integer")
+     *@ORM\GeneratedValue
+     *@ORM\Column(type="integer")
      */
     public $id;
     /**
-     * @ORM\Column(Type="integer")
+     * @ORM\Column(type="integer")
      */
     public $crm;
     /**
-     * @ORM\Column(Type="string")
+     * @ORM\Column(type="string")
      */
     public $nome;
 
