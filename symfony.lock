@@ -206,6 +206,9 @@
     "symfony/polyfill-php81": {
         "version": "v1.24.0"
     },
+    "symfony/property-info": {
+        "version": "v6.0.3"
+    },
     "symfony/proxy-manager-bridge": {
         "version": "v6.0.3"
     },
